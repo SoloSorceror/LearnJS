@@ -7,7 +7,7 @@
 // console.log(valueInNumber);
 
 let value = 3;
-let negvalye =-3;
+let negvalue = -3;
 // basic maths arithmetics same like other cpp
 
 let str1 = "Hello";
